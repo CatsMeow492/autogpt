@@ -1,1 +1,1 @@
-When prompting autogpt for 
+The AI seemed extremely confused at times. The results were also unsurprising. Based on its logs it seems to basically have determined the highet market cap currencies.
