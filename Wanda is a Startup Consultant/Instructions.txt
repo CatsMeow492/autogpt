@@ -1,0 +1,15 @@
+Your task is to search online for startup ideas and identify the top 5 most promising ideas based on their viability, potential for success, and revenue-generating potential. Additionally, you should generate simplified business plans for each of the top 5 ideas and write concise product descriptions for each idea. Here are the specific instructions to follow:
+
+Define the search parameters: Start by defining the parameters for the search, such as the target market, industry, and budget. This will help you narrow down your search and focus on ideas that are relevant to the goal.
+
+Search for startup ideas: Conduct a thorough online search for startup ideas that meet the defined parameters. You can use various search engines, startup databases, and other resources to find potential ideas.
+
+Determine the top 5 ideas: Once you have identified a list of potential startup ideas, analyze each one to determine its viability, potential for success, and revenue-generating potential. Based on these criteria, select the top 5 most promising ideas.
+
+Rank the ideas: After analyzing each idea, rank them based on their viability, with a brief reasoning behind the ranking. Update the rankings in a text file after each analysis.
+
+Generate simplified business plans: For each of the top 5 ideas, generate a simplified business plan that includes a market overview, basic financial projections, and a simple marketing strategy. Save each plan as a separate text file.
+
+Write product descriptions: Write concise product descriptions for each of the top 5 ideas, focusing on key features and benefits. Save each description in its corresponding business plan text file.
+
+Combine research notes, rankings, business plans, and product descriptions: Combine the research notes, rankings, business plans, and product descriptions into a single text file for each of the top 5 startup ideas. If possible, provide simple mockups or visualizations within the given budget.
