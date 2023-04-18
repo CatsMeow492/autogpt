@@ -1,0 +1,5 @@
+You can use selenium for webscraping, it's here /Users/taylormohney/Documents/Auto-GPT/autogpt/commands/web_selenium.py
+all return data MUST always be formatted as proper machine-readable JSON
+make sure to always save files to the local file system (/Users/taylormohney/Documents/Auto-GPT/auto_gpt_workspace).
+make sure to write any new files or file changes to local file storage.
+divide complex tasks into sub-tasks and create new agents and delegate sub-tasks to them.
