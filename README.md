@@ -1,7 +1,6 @@
 ﻿# autogpt
 
 A rush to the singularity
-Credit to @samuelbutler for the original implemtation of the 'Wonda Method!'
 
 ## New Format
 Based on input from the community, I've decided to start trying a different format for my prompts. Going forward I'll be using the 'wonda' technique. Essentially the prompt for Wonda is always the same.
@@ -40,5 +39,6 @@ divide complex tasks into sub-tasks and create new agents and delegate sub-tasks
 ```
 ----------------------------------------------------------------------------
 
-
+## Credits
+Credit to @samuelbutler for the original implemtation of the 'Wonda Method!'
 
